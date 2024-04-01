@@ -1,7 +1,4 @@
 // /****************************************************************************************
-// *  Ugonna Ezeokoli
-// *  uezeokol
-// *  2024 Winter CSE101 PA5
 // *  Shufffle.cpp
 // *  Displays the amount of riffle shuffles to needed until back to orignial order
 // *****************************************************************************************/
